@@ -1,0 +1,6 @@
+package Model;
+
+public enum Title {
+	PROFESSOR, ASSOCIATE_PROFESSOR, INSTRUCTOR, ASSISTANT_PROFFESSOR;
+
+}
